@@ -1,0 +1,10 @@
+{
+	"files.exclude": {
+		"C:/Users/MarlonJD/Documents/Unreal Projects/BuildingEscape/BuildingEscape/.git": true,
+		"C:/Users/MarlonJD/Documents/Unreal Projects/BuildingEscape/BuildingEscape/.vs": true,
+		"C:/Users/MarlonJD/Documents/Unreal Projects/BuildingEscape/BuildingEscape/.vscode": true,
+		"C:/Users/MarlonJD/Documents/Unreal Projects/BuildingEscape/BuildingEscape/Content": true,
+		"C:/Users/MarlonJD/Documents/Unreal Projects/BuildingEscape/BuildingEscape/Intermediate": true,
+		"C:/Users/MarlonJD/Documents/Unreal Projects/BuildingEscape/BuildingEscape/Saved": true
+	}
+}
